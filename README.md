@@ -1,17 +1,4 @@
-+++
-author = "Angyi"
-comments = true	# set false to hide Disqus
-date  = 2019-11-15T12:17:57+08:00
-draft = false
-share = true	# set false to hide share buttons
-tags = ["海洋大气"]
-series = ["ocean"]
-categories = ["海洋大气"]
-toc = true
-summary= "EOF分解，Python实现以及画图，缺少现象物理分析。"
-title = "EOF analysis of a monthly SST dataset. "
-img = "images/ocean.jpg"
-+++
+
 
 
 [EOF理论](https://wenku.baidu.com/view/e64ba4691eb91a37f1115c0b.html?rec_flag=default&sxts=1573788411232)
